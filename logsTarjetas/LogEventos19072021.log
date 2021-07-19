@@ -20,3 +20,62 @@
 19-07-2021 00:35:29 - Procesando ID Canal Movimineto :DA0D033B-FA66-42DE-ABDD-A5BE76736698
 19-07-2021 00:35:29 - Actualiza estado de Canal Moviminetos 61 :DA0D033B-FA66-42DE-ABDD-A5BE76736698
 19-07-2021 00:35:29 - Insertando respuesta en BD.
+19-07-2021 00:56:27 - SERVICIO TARJETA INICIADO
+19-07-2021 01:07:46 - SERVICIO TARJETA INICIADO
+19-07-2021 01:11:18 - SERVICIO TARJETA INICIADO
+19-07-2021 01:12:09 - SERVICIO TARJETA INICIADO
+19-07-2021 01:13:19 - SERVICIO TARJETA INICIADO
+19-07-2021 01:13:21 - SERVICIO TARJETA INICIADO
+19-07-2021 01:13:33 - SERVICIO TARJETA INICIADO
+19-07-2021 01:13:47 - SERVICIO TARJETA INICIADO
+19-07-2021 01:13:59 - SERVICIO TARJETA INICIADO
+19-07-2021 01:14:16 - SERVICIO TARJETA INICIADO
+19-07-2021 01:14:52 - SERVICIO TARJETA INICIADO
+19-07-2021 01:15:04 - SERVICIO TARJETA INICIADO
+19-07-2021 01:15:18 - SERVICIO TARJETA INICIADO
+19-07-2021 01:15:39 - SERVICIO TARJETA INICIADO
+19-07-2021 01:15:50 - SERVICIO TARJETA INICIADO
+19-07-2021 01:15:59 - SERVICIO TARJETA INICIADO
+19-07-2021 01:16:10 - SERVICIO TARJETA INICIADO
+19-07-2021 01:16:18 - SERVICIO TARJETA INICIADO
+19-07-2021 01:18:34 - SERVICIO TARJETA INICIADO
+19-07-2021 01:18:52 - ################################################################
+19-07-2021 01:18:52 - Inicia proceso cobro con tarjeta
+19-07-2021 01:18:52 - Procesando ID Canal Movimineto :8F4F6DE6-C999-4183-9A43-69BB32621D88
+19-07-2021 01:18:52 - Actualiza estado de Canal Moviminetos 61 :8F4F6DE6-C999-4183-9A43-69BB32621D88
+19-07-2021 01:18:52 - Movimieto: K068F000136206
+19-07-2021 01:18:52 - Tipo de transaccion:ENVIO CON DATAFONO
+19-07-2021 01:18:52 - Actualiza estado de Requerimineto 61 :27360
+19-07-2021 01:18:53 - Entra a funcion para validar trama
+19-07-2021 01:18:53 - Trama de requerimineto longitud CORRECTA
+19-07-2021 01:18:53 - Secuencia de Transaccion y trama: ufs5WyU/EcW5q71yc+8+K+6nbf+xuNEz4U/jK6iHxC66GnJYLoZepKSNF5qf7nzgy7GY064C2HkkHD67Ip+W9j7cqdKLDZgp+4/NyP0eB+PMRiu8miNxQihGoP73Ab4AzAiBTeo2yecRTGV+nJERFhQmus4WMkP/vpHAfs3uciTXeK1R7ezJOK3dP/mhvV0YA5Gk8/mX8I84XgLKMAd+K18AH+BFCIPjRc2thndhrMki8vDpICWyFkqxGH3z4A0Z60eJd6tSW5MWdDgMzXqYwhNhxL6q+crlNyjfhL1NEQIO15ySnnTiVzwhkDDmnFU587iZlxD8od3cgJiykumnbYDfb2UGVSjfUpAuJW0p26kRTGV+nJERFgCAjODF7JsmJV8EINmQiM7p15cG/u89lcNowvAiFt5SQGC6qjwWVRHXkwjMjnq/kkKgdS8joWb9XeScVUxdctPhGK8j31PtyMUpMR9tli5gmDcW4xo4RcbXa2AlQWmHEw==
+19-07-2021 01:18:53 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 
+19-07-2021 01:18:53 - No se pudo encontrar la Clase com.credibanco.tef.controller.param.TefParameters com.credibanco.tef.controller.param.TefParameters
+19-07-2021 01:18:53 - metodo envio con transaccion tipo: ENVIO  EJECUTADO
+19-07-2021 01:18:53 - Respuesta obtenida (Trama): G3PHN7Cb8Ik=
+19-07-2021 01:18:53 - Insertando respuesta en BD.
+19-07-2021 01:18:53 - Respuesta insertada en BD
+19-07-2021 01:18:53 - ------------Exception:  String index out of range: 2
+19-07-2021 01:18:53 - Fin proceso cobro con tarjeta
+19-07-2021 01:20:23 - SERVICIO TARJETA INICIADO
+19-07-2021 01:20:32 - ################################################################
+19-07-2021 01:20:32 - Inicia proceso cobro con tarjeta
+19-07-2021 01:20:32 - Procesando ID Canal Movimineto :A263B2A0-5D7E-4DBB-A56D-7E2EDA9B9229
+19-07-2021 01:20:32 - Actualiza estado de Canal Moviminetos 61 :A263B2A0-5D7E-4DBB-A56D-7E2EDA9B9229
+19-07-2021 01:20:32 - Movimieto: K068F000136206
+19-07-2021 01:20:32 - Tipo de transaccion:ENVIO CON DATAFONO
+19-07-2021 01:20:32 - Actualiza estado de Requerimineto 61 :27361
+19-07-2021 01:20:32 - Entra a funcion para validar trama
+19-07-2021 01:20:32 - Trama de requerimineto longitud CORRECTA
+19-07-2021 01:20:32 - Secuencia de Transaccion y trama: ufs5WyU/EcW5q71yc+8+K+6nbf+xuNEz4U/jK6iHxC66GnJYLoZepKSNF5qf7nzgy7GY064C2HkkHD67Ip+W9j7cqdKLDZgp+4/NyP0eB+PMRiu8miNxQihGoP73Ab4AzAiBTeo2yecRTGV+nJERFhQmus4WMkP/vpHAfs3uciTXeK1R7ezJOK3dP/mhvV0YA5Gk8/mX8I84XgLKMAd+K18AH+BFCIPjRc2thndhrMki8vDpICWyFkqxGH3z4A0Z60eJd6tSW5MWdDgMzXqYwhNhxL6q+crlNyjfhL1NEQIO15ySnnTiVzwhkDDmnFU587iZlxD8od3cgJiykumnbYDfb2UGVSjfUpAuJW0p26kRTGV+nJERFgCAjODF7JsmJV8EINmQiM7p15cG/u89lcNowvAiFt5SQGC6qjwWVRHXkwjMjnq/kkKgdS8joWb9XeScVUxdctN7tA1aBaaS0cUpMR9tli5gmDcW4xo4RcZ1bIliPrliVA==
+19-07-2021 01:20:32 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 
+19-07-2021 01:20:32 - metodo envio con transaccion tipo: ENVIO  EJECUTADO
+19-07-2021 01:20:32 - Respuesta obtenida (Trama): /kQ1nkO5PXqApjGPf4ATDXkCbNk/PIuhvNVkCJzy6Sv3Bi8RVcck36kmNWjWmgduPQ28mXULdD6JHRDyfQKzrfvzNsUlXRMb4VYqbOH7xlv7U0FyrReXC83dI6O4uTDNWWr3B9tjpR/lEnehJWzP5pkXedp2MVAU5RQ7PYFqgh9oBFS5ta+6+iTWqU7Nl3LmB71O/EdOIZQPh5AKYthwC2PKft6ldm/PbwXUsLVWRIyO/+8arRgoibzVZAic8ukr5xSCA74/P/A=
+19-07-2021 01:20:32 - [Mensaje de respuesta]  Codigo:  00, Mensaje:  Transaccion Aprobada DATAFONO ,   Secuencia:  APROBADA 
+19-07-2021 01:20:32 - Procesando respuesta obtenida.
+19-07-2021 01:20:32 - Entra a funcion Validar trama de respuesta del Switch.
+19-07-2021 01:20:32 - Trama de respuesta del Switch longitud OK
+19-07-2021 01:20:32 - Insertando respuesta en BD.
+19-07-2021 01:20:32 - Respuesta insertada en BD
+19-07-2021 01:20:32 - Actualizar a estado 42 ID: A263B2A0-5D7E-4DBB-A56D-7E2EDA9B9229
+19-07-2021 01:20:32 - Fin proceso cobro con tarjeta

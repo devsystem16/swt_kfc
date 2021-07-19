@@ -49,15 +49,20 @@ class Tarjetas {
 		cola.oCnn = ocnn
 
 		requerimiento = new RequerimientoAutorizacion(ocnn)
+	
 		requerimiento.requerimientoPendiente(cola)
-
+	 
 		if (requerimiento.getTipoTransaccion().equals("REVERSO")) {
+		
 			if (limpiarReverso) {
+		
 				cola.actualizarEstadoEjecutado()
 				requerimiento.actualizarEstadoProcesado()
 				//requerimiento.destruirTrama()
 			}
 		}else {
+		
+			
 			cola.actualizarEstadoEjecutado()
 			requerimiento.actualizarEstadoProcesado()
 			//requerimiento.destruirTrama()
@@ -193,8 +198,9 @@ class Tarjetas {
 				 
 										println "Ejecutando......"
 										
+										return "00,222585,000000027300,000000000000,000050    ,014164,005029,000C8815,210718,2004,00,VISA      ,DB,00,9872,491511,0000,013111562              ,CCO CTRO CHIA LOC 46   ,00,000000000000,000000000000,6d"
 									     //return "0202PP000200AUTORIZACION OK.    00023100000118104520201117496462KFC12601000000855095                                                                                                                                VISA ELECT/DEB           03GEOMARA OLMOS                                       VISA DEBITO                                                                                  0200008000F800438108XXXXXX4361         210187A074D50F05C0ABDEF6660B59F147B429DA46C75A8601B843DECF878E173ABE                           936373E24343A31343955D1B6AB550EB"
-										 return  j.executeMetodoSecuencia(lineasDeEjecucion, respuestaSwitch) //
+										// return  j.executeMetodoSecuencia(lineasDeEjecucion, respuestaSwitch) //
 										  // contact less aprobada "0202PP000100APROBADA  TRANS.    00007100002412105520200807446398PPKFC0011791310101                 016                                                                             002DINERS CLUB                   VISA                     03 HUAMALA/JULIO                                      VISA CREDITO        A0000000031010      A363D267505199D9                     C230C9BA69FC3AB40080008000F800411077XXXXXXX149         2512B538106F07F4F2F6802A3F78F65D01D235FBB4E0344139AE9C1DAF0F0D36AFE7                           932363E25353A303D3AB1595050FE0DD" 
 										   
 									   //j.executeMetodoSecuencia

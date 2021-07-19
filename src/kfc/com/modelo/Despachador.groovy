@@ -32,6 +32,7 @@ class Despachador {
 		if (cantidadColas >0) {
 			Main.cantidadConsultasParaLiberarMemoriaTemp=Main.cantidadConsultasParaLiberarMemoria
 			println "${cantidadColas} Colas encontradas"
+			
 			Tarjetas tarjeta
 			for (ColaProcesos cola : listaColaProceso) {
 				tarjeta = new Tarjetas( cola, ocnn)

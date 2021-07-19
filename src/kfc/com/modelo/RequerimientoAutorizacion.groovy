@@ -180,8 +180,8 @@ class RequerimientoAutorizacion {
 
 	void requerimientoPendiente (ColaProcesos cola) {
 
-	  //  Object [] params = [cola.imp_ip_estacion, Fecha.actual()]
-	  	 Object [] params = [cola.iDCanalMovimiento]
+ Object [] params = [cola.imp_ip_estacion, Fecha.actual()]
+	  //	 Object [] params = [cola.iDCanalMovimiento]
 		String a =  Propiedades.get(Constantes.ARCHIVO_CONFIGURACION_DINAMIC, "query.RequerimientoPendientes")
 
 		ResultSet odr  = ocnn.select( Propiedades.get(Constantes.ARCHIVO_CONFIGURACION_DINAMIC, "query.RequerimientoPendientes"),params)
