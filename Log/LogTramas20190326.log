@@ -1,0 +1,70 @@
+10:12:00	DEBUG : Se envia trama de seguridad=SH34E44C5DB8A02962l
+10:12:01	DEBUG : Se espera la respuesta
+10:12:01	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03672110115720190326      ESP00501000000ESP005   260319            .
+10:12:05	DEBUG : Se envia ACK al pinpad proceso OK
+10:12:05	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:15:49	DEBUG : Se envia trama de seguridad=SHB4C9EA4D230693F4
+10:15:50	DEBUG : Se espera la respuesta
+10:15:50	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03672910154720190326      ESP00501000000ESP005   260319            #
+10:15:52	DEBUG : Se envia ACK al pinpad proceso OK
+10:15:52	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:20:10	DEBUG : Se envia trama de seguridad=SH2CF54B462050108E
+10:20:11	DEBUG : Se espera la respuesta
+10:20:11	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03673310200820190326      ESP00501000000ESP005   260319            %
+10:20:17	DEBUG : Se envia ACK al pinpad proceso OK
+10:20:17	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:20:24	DEBUG : Se envia trama de seguridad=SHB5D9B32E6A9BDC25
+10:20:25	DEBUG : Se espera la respuesta
+10:20:25	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03673410202120190326      ESP00501000000ESP005   260319            )
+10:20:27	DEBUG : Se envia ACK al pinpad proceso OK
+10:20:27	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:22:14	DEBUG : Se envia trama de seguridad=SH977E1ABDFD54FBD4e
+10:22:15	DEBUG : Se espera la respuesta
+10:22:15	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03673710220920190326      ESP00501000000ESP005   260319            "
+10:22:17	DEBUG : Se envia ACK al pinpad proceso OK
+10:22:17	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:22:31	DEBUG : Se envia trama de seguridad=SHCC260C03A44B6775l
+10:22:32	DEBUG : Se espera la respuesta
+10:22:32	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03673810222020190326      ESP00501000000ESP005   260319            &
+10:22:34	DEBUG : Se envia ACK al pinpad proceso OK
+10:22:34	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:24:22	DEBUG : Se envia trama de seguridad=SHA3A9B72689CB24BFa
+10:24:23	DEBUG : Se espera la respuesta
+10:24:23	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03674010241820190326      ESP00501000000ESP005   260319            $
+10:24:29	DEBUG : Se envia ACK al pinpad proceso OK
+10:24:29	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:24:38	DEBUG : Se envia trama de seguridad=SH3B9D14945D315638g
+10:24:39	DEBUG : Se espera la respuesta
+10:24:39	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03674110243520190326      ESP00501000000ESP005   260319            *
+10:24:45	DEBUG : Se envia ACK al pinpad proceso OK
+10:24:45	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:27:46	DEBUG : Se envia trama de seguridad=SHC0B5A6124F99E4E3
+10:27:47	DEBUG : Se espera la respuesta
+10:27:47	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03674310274320190326      ESP00501000000ESP005   260319            *
+10:27:50	DEBUG : Se envia ACK al pinpad proceso OK
+10:27:50	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:27:59	DEBUG : Se envia trama de seguridad=SH1F85E637C4EA2D92
+10:28:00	DEBUG : Se espera la respuesta
+10:28:00	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03674410275820190326      ESP00501000000ESP005   260319            '
+10:28:04	DEBUG : Se envia ACK al pinpad proceso OK
+10:28:04	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:33:13	DEBUG : Se envia trama de seguridad=SH535D9A0C27D8B8BE`
+10:33:14	DEBUG : Se espera la respuesta
+10:33:14	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03674610331220190326      ESP00501000000ESP005   260319            .
+10:33:20	DEBUG : Se envia ACK al pinpad proceso OK
+10:33:20	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:33:26	DEBUG : Se envia trama de seguridad=SH0A4F1CE0A03B05CE
+10:33:27	DEBUG : Se espera la respuesta
+10:33:27	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03674710332420190326      ESP00501000000ESP005   260319            *
+10:33:33	DEBUG : Se envia ACK al pinpad proceso OK
+10:33:33	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+10:34:13	DEBUG : Se envia trama de seguridad=SH51A52A36DF93B4BDf
+10:34:14	DEBUG : Se espera la respuesta
+10:34:14	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03675010341320190326      ESP00501000000ESP005   260319            /
+10:34:17	DEBUG : Se envia ACK al pinpad proceso OK
+10:34:17	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               
+12:18:22	DEBUG : Se envia trama de seguridad=SHAFFF1EED47D174F7n
+12:18:23	DEBUG : Se espera la respuesta
+12:18:23	DEBUG : Se envia trama al puerto al pinpad  01000000000000000351000000000313000000000000000000000038                                    03675812182020190326      ESP00501000000ESP005   260319            +
+12:18:25	DEBUG : Se envia ACK al pinpad proceso OK
+12:18:25	DEBUG : Se envia respuesta a la caja respuesta=01ERTRANS. CANCELADA                                                                                                                                                                                                                                                                                                                                                                                                               

@@ -1,0 +1,166 @@
+30-11-2020 12:37:22 - SERVICIO TARJETA INICIADO
+30-11-2020 12:42:20 - ################################################################
+30-11-2020 12:42:20 - Inicia proceso cobro con tarjeta
+30-11-2020 12:42:20 - Procesando ID Canal Movimineto :161049E5-A43F-48AD-8089-6C3BE7D483AF
+30-11-2020 12:42:21 - Actualiza estado de Canal Moviminetos 61 :161049E5-A43F-48AD-8089-6C3BE7D483AF
+30-11-2020 12:42:23 - Movimieto: K126F000410428
+30-11-2020 12:42:23 - Tipo de transaccion:ENVIO CON PINPAD.MAIN.RED
+30-11-2020 12:42:23 - Actualiza estado de Requerimineto 61 :93372
+30-11-2020 12:42:23 - Entra a funcion para validar trama
+30-11-2020 12:42:23 - Trama de requerimineto longitud CORRECTA
+30-11-2020 12:42:24 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUsa112m+6eYzdLMntqbk7oCcjbYZ2oMbPxEjhqlLcdyZZWNp7krgWrvNVkCJzy6SuJUO/6E+GhWBJhoGVhxQI+aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvqR5PtLZoxoUPNYIRRFN0q98lnMEMMTGlya9TJM8nziDEZhkZ33XTLqELbcejj0930OeHVBROQBb2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+30-11-2020 12:42:24 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 
+30-11-2020 12:43:24 - metodo envio con transaccion tipo: ENVIO  EJECUTADO
+30-11-2020 12:43:24 - Insertando respuesta en BD.
+30-11-2020 12:43:24 - Respuesta insertada en BD
+30-11-2020 12:43:24 - Se obtubo un TIME_OUT esperando respuesta
+30-11-2020 12:43:25 - Actualizar a estado 42 ID: 161049E5-A43F-48AD-8089-6C3BE7D483AF
+30-11-2020 12:43:25 - Fin proceso cobro con tarjeta
+30-11-2020 12:43:28 - ################################################################
+30-11-2020 12:43:28 - Inicia proceso cobro con tarjeta
+30-11-2020 12:43:28 - Procesando ID Canal Movimineto :EFCCC02F-F0C1-4BC2-92FD-90CF766CF437
+30-11-2020 12:43:28 - Actualiza estado de Canal Moviminetos 61 :EFCCC02F-F0C1-4BC2-92FD-90CF766CF437
+30-11-2020 12:43:28 - Movimieto: K126F000410428
+30-11-2020 12:43:28 - Tipo de transaccion:REVERSO CON PINPAD.MAIN.RED
+30-11-2020 12:43:28 - Actualiza estado de Requerimineto 61 :93373
+30-11-2020 12:43:28 - Entra a funcion para validar trama
+30-11-2020 12:43:28 - Trama de requerimineto longitud CORRECTA
+30-11-2020 12:43:28 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUehP4oROKZfjdLMntqbk7oCcjbYZ2oMbPxEjhqlLcdyZZWNp7krgWrvNVkCJzy6SuJUO/6E+GhWBJhoGVhxQI+aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvqR5PtLZoxoUPNYIRRFN0q98lnMEMMTGlya9TJM8nziDEZhkZ33XTLqELbcejj0930OeHVBROQBb2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+30-11-2020 12:43:28 - ENTRO a ejecucion del metodo envio con transaccion tipo: REVERSO 
+30-11-2020 12:43:43 - metodo envio con transaccion tipo: REVERSO  EJECUTADO
+30-11-2020 12:43:43 - Insertando respuesta en BD.
+30-11-2020 12:43:43 - Respuesta insertada en BD
+30-11-2020 12:43:43 - Se obtubo un TIME_OUT esperando respuesta
+30-11-2020 12:43:43 - Actualizar a estado 42 ID: EFCCC02F-F0C1-4BC2-92FD-90CF766CF437
+30-11-2020 12:43:43 - Fin proceso cobro con tarjeta
+30-11-2020 12:43:46 - ################################################################
+30-11-2020 12:43:46 - Inicia proceso cobro con tarjeta
+30-11-2020 12:43:46 - Procesando ID Canal Movimineto :BBE5D60C-D6B4-4D14-9455-82A3E7B4D179
+30-11-2020 12:43:46 - Actualiza estado de Canal Moviminetos 61 :BBE5D60C-D6B4-4D14-9455-82A3E7B4D179
+30-11-2020 12:43:47 - Movimieto: K126F000410428
+30-11-2020 12:43:47 - Tipo de transaccion:ENVIO CON PINPAD.MAIN.RED
+30-11-2020 12:43:47 - Actualiza estado de Requerimineto 61 :93374
+30-11-2020 12:43:47 - Entra a funcion para validar trama
+30-11-2020 12:43:47 - Trama de requerimineto longitud CORRECTA
+30-11-2020 12:43:47 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUsa112m+6eYzdLMntqbk7oCcjbYZ2oMbPxEjhqlLcdyZZWNp7krgWrvNVkCJzy6SuJUO/6E+GhWBJhoGVhxQI+aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvrVwJ2iaMRBStgFTNum5fWM8lnMEMMTGlya9TJM8nziDEZhkZ33XTLqELbcejj0930OeHVBROQBb2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+30-11-2020 12:43:47 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 
+30-11-2020 12:44:11 - metodo envio con transaccion tipo: ENVIO  EJECUTADO
+30-11-2020 12:44:11 - Respuesta obtenida (Trama): 2KT6uTbmWH4jo91dtcaJxLlTilmt/1HenkAC8hBq7ZHpQQn91D5yVCI92Ifku64nBjqXBKD4HRjKj2jWqxDVu/yNTeliENoIgOS87fwjwWPC4gVdBlyMimgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+uwzgakoiFtSgfIsojak5wpoNgPhFXf4Gn8km5+dtwb1m/SaGuHflnjdVq9TP30rnmgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r65xsOtIKsSCcsY4MvLKFMxGgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6QQIPghGafTMyBjWsW/gSz3/aagc6q5PEYS8IyW6bru1CdBjeMPafOXUbnVSvafFRhMEQxpLJ/HzSLGNz932AwGRYeUdWkdr7xTj+tL0KGgh1v76q6w5yIHFgqmRI+Lx/+ASZJRImiE8dnIFerVLcZGgEVLm1r7r6aARUubWvuvpT05dOP2X7xrS2z27Ua7z7H2bZpBRF8hl0nNXSA9fcYnVs4nV6KW0g
+30-11-2020 12:44:11 - [Mensaje de respuesta]  Codigo:  AUTORIZACION OK., Mensaje:  AUTORIZACION APROBADA ,   Secuencia:  APROBADA 
+30-11-2020 12:44:11 - Procesando respuesta obtenida.
+30-11-2020 12:44:11 - Entra a funcion Validar trama de respuesta del Switch.
+30-11-2020 12:44:11 - Trama de respuesta del Switch longitud OK
+30-11-2020 12:44:11 - Insertando respuesta en BD.
+30-11-2020 12:44:11 - Respuesta insertada en BD
+30-11-2020 12:44:11 - Actualizar a estado 42 ID: BBE5D60C-D6B4-4D14-9455-82A3E7B4D179
+30-11-2020 12:44:11 - Fin proceso cobro con tarjeta
+30-11-2020 12:53:39 - ################################################################
+30-11-2020 12:53:39 - Inicia proceso cobro con tarjeta
+30-11-2020 12:53:39 - Procesando ID Canal Movimineto :BCDA9F1D-FFAB-4788-842B-CA9AAB4BD8A9
+30-11-2020 12:53:39 - Actualiza estado de Canal Moviminetos 61 :BCDA9F1D-FFAB-4788-842B-CA9AAB4BD8A9
+30-11-2020 12:53:40 - Movimieto: K126F000410429
+30-11-2020 12:53:40 - Tipo de transaccion:ENVIO CON PINPAD.MAIN.RED
+30-11-2020 12:53:40 - Actualiza estado de Requerimineto 61 :93375
+30-11-2020 12:53:40 - Entra a funcion para validar trama
+30-11-2020 12:53:40 - Trama de requerimineto longitud CORRECTA
+30-11-2020 12:53:40 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUsa112m+6eYzdLMntqbk7oCcjbYZ2oMbPxEjhqlLcdyZZWNp7krgWrvNVkCJzy6SuJUO/6E+GhWBJhoGVhxQI+aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvqJX7BYcxJz/oeLFSYGQ+Mx8lnMEMMTGlya9TJM8nziDEZhkZ33XTLqELbcejj0930OeHVBROQBb2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+30-11-2020 12:53:40 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 
+30-11-2020 12:53:40 - metodo envio con transaccion tipo: ENVIO  EJECUTADO
+30-11-2020 12:53:40 - Respuesta obtenida (Trama): 2KT6uTbmWH4jo91dtcaJxLlTilmt/1HenkAC8hBq7ZHpQQn91D5yVCI92Ifku64nBjqXBKD4HRjKj2jWqxDVu/yNTeliENoIgOS87fwjwWPC4gVdBlyMimgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+uwzgakoiFtSgfIsojak5wpoNgPhFXf4Gn8km5+dtwb1m/SaGuHflnjdVq9TP30rnmgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r65xsOtIKsSCcsY4MvLKFMxGgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6QQIPghGafTMyBjWsW/gSz3/aagc6q5PEYS8IyW6bru1CdBjeMPafOXUbnVSvafFRhMEQxpLJ/HzSLGNz932AwGRYeUdWkdr7xTj+tL0KGgh1v76q6w5yIHFgqmRI+Lx/+ASZJRImiE8dnIFerVLcZGgEVLm1r7r6aARUubWvuvpT05dOP2X7xrS2z27Ua7z7H2bZpBRF8hl0nNXSA9fcYnVs4nV6KW0g
+30-11-2020 12:53:40 - [Mensaje de respuesta]  Codigo:  AUTORIZACION OK., Mensaje:  AUTORIZACION APROBADA ,   Secuencia:  APROBADA 
+30-11-2020 12:53:40 - Procesando respuesta obtenida.
+30-11-2020 12:53:40 - Entra a funcion Validar trama de respuesta del Switch.
+30-11-2020 12:53:40 - Trama de respuesta del Switch longitud OK
+30-11-2020 12:53:40 - Insertando respuesta en BD.
+30-11-2020 12:53:40 - Respuesta insertada en BD
+30-11-2020 12:53:40 - Actualizar a estado 42 ID: BCDA9F1D-FFAB-4788-842B-CA9AAB4BD8A9
+30-11-2020 12:53:40 - Fin proceso cobro con tarjeta
+30-11-2020 12:54:02 - SERVICIO TARJETA INICIADO
+30-11-2020 12:54:09 - ################################################################
+30-11-2020 12:54:09 - Inicia proceso cobro con tarjeta
+30-11-2020 12:54:09 - Procesando ID Canal Movimineto :7359244A-DA94-4CBB-89C2-ED8DB15B3BEC
+30-11-2020 12:54:09 - Actualiza estado de Canal Moviminetos 61 :7359244A-DA94-4CBB-89C2-ED8DB15B3BEC
+30-11-2020 12:54:10 - Movimieto: K126F000410430
+30-11-2020 12:54:10 - Tipo de transaccion:ENVIO CON PINPAD.MAIN.RED
+30-11-2020 12:54:10 - Actualiza estado de Requerimineto 61 :93376
+30-11-2020 12:54:10 - Entra a funcion para validar trama
+30-11-2020 12:54:10 - Trama de requerimineto longitud CORRECTA
+30-11-2020 12:54:11 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUsa112m+6eYzdLMntqbk7oCcjbYZ2oMbPxEjhqlLcdyZZWNp7krgWrvNVkCJzy6SuJUO/6E+GhWBJhoGVhxQI+aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvrfMk8xLOHz2IeLFSYGQ+Mx8lnMEMMTGlya9TJM8nziDEZhkZ33XTLqELbcejj0930OeHVBROQBb2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+30-11-2020 12:54:11 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 
+30-11-2020 12:55:11 - metodo envio con transaccion tipo: ENVIO  EJECUTADO
+30-11-2020 12:55:11 - Insertando respuesta en BD.
+30-11-2020 12:55:11 - Respuesta insertada en BD
+30-11-2020 12:55:11 - Se obtubo un TIME_OUT esperando respuesta
+30-11-2020 12:55:11 - Actualizar a estado 42 ID: 7359244A-DA94-4CBB-89C2-ED8DB15B3BEC
+30-11-2020 12:55:11 - Fin proceso cobro con tarjeta
+30-11-2020 12:55:14 - ################################################################
+30-11-2020 12:55:14 - Inicia proceso cobro con tarjeta
+30-11-2020 12:55:14 - Procesando ID Canal Movimineto :518D367D-2CD5-4868-8FF3-15E157085530
+30-11-2020 12:55:14 - Actualiza estado de Canal Moviminetos 61 :518D367D-2CD5-4868-8FF3-15E157085530
+30-11-2020 12:55:14 - Movimieto: K126F000410430
+30-11-2020 12:55:14 - Tipo de transaccion:ENVIO CON PINPAD.MAIN.RED
+30-11-2020 12:55:14 - Actualiza estado de Requerimineto 61 :93377
+30-11-2020 12:55:14 - Entra a funcion para validar trama
+30-11-2020 12:55:14 - Trama de requerimineto longitud CORRECTA
+30-11-2020 12:55:14 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUsa112m+6eYzdLMntqbk7oCcjbYZ2oMbPxEjhqlLcdyZZWNp7krgWrvNVkCJzy6SuJUO/6E+GhWBJhoGVhxQI+aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvrV9IkEKfeEhqTvN2xz0gkE8lnMEMMTGlya9TJM8nziDEZhkZ33XTLqELbcejj0930OeHVBROQBb2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+30-11-2020 12:55:15 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 
+30-11-2020 12:55:39 - metodo envio con transaccion tipo: ENVIO  EJECUTADO
+30-11-2020 12:55:39 - Respuesta obtenida (Trama): 2KT6uTbmWH4jo91dtcaJxLlTilmt/1HenkAC8hBq7ZHpQQn91D5yVCI92Ifku64nBjqXBKD4HRjKj2jWqxDVu/yNTeliENoIgOS87fwjwWPC4gVdBlyMimgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+uwzgakoiFtSgfIsojak5wpoNgPhFXf4Gn8km5+dtwb1m/SaGuHflnjdVq9TP30rnmgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r65xsOtIKsSCcsY4MvLKFMxGgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6QQIPghGafTMyBjWsW/gSz3/aagc6q5PEYS8IyW6bru1CdBjeMPafOXUbnVSvafFRhMEQxpLJ/HzSLGNz932AwGRYeUdWkdr7xTj+tL0KGgh1v76q6w5yIHFgqmRI+Lx/+ASZJRImiE8dnIFerVLcZGgEVLm1r7r6aARUubWvuvpT05dOP2X7xrS2z27Ua7z7H2bZpBRF8hl0nNXSA9fcYnVs4nV6KW0g
+30-11-2020 12:55:39 - [Mensaje de respuesta]  Codigo:  AUTORIZACION OK., Mensaje:  AUTORIZACION APROBADA ,   Secuencia:  APROBADA 
+30-11-2020 12:55:39 - Procesando respuesta obtenida.
+30-11-2020 12:55:39 - Entra a funcion Validar trama de respuesta del Switch.
+30-11-2020 12:55:39 - Trama de respuesta del Switch longitud OK
+30-11-2020 12:55:39 - Insertando respuesta en BD.
+30-11-2020 12:55:39 - Respuesta insertada en BD
+30-11-2020 12:55:39 - Actualizar a estado 42 ID: 518D367D-2CD5-4868-8FF3-15E157085530
+30-11-2020 12:55:39 - Fin proceso cobro con tarjeta
+30-11-2020 12:55:39 - ################################################################
+30-11-2020 12:55:39 - Inicia proceso cobro con tarjeta
+30-11-2020 12:55:39 - Procesando ID Canal Movimineto :FA1024BD-FA39-4AE6-B529-8B17E9A816E8
+30-11-2020 12:55:39 - Actualiza estado de Canal Moviminetos 61 :FA1024BD-FA39-4AE6-B529-8B17E9A816E8
+30-11-2020 12:55:39 - Movimieto: K126F000410430
+30-11-2020 12:55:39 - Tipo de transaccion:REVERSO CON PINPAD.MAIN.RED
+30-11-2020 12:55:39 - Actualiza estado de Requerimineto 61 :93378
+30-11-2020 12:55:39 - Entra a funcion para validar trama
+30-11-2020 12:55:39 - Trama de requerimineto longitud CORRECTA
+30-11-2020 12:55:39 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUehP4oROKZfjdLMntqbk7oCcjbYZ2oMbPxEjhqlLcdyZZWNp7krgWrvNVkCJzy6SuJUO/6E+GhWBJhoGVhxQI+aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvrV9IkEKfeEhqTvN2xz0gkE8lnMEMMTGlya9TJM8nziDEZhkZ33XTLqELbcejj0930OeHVBROQBb2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+30-11-2020 12:55:39 - ENTRO a ejecucion del metodo envio con transaccion tipo: REVERSO 
+30-11-2020 12:55:54 - metodo envio con transaccion tipo: REVERSO  EJECUTADO
+30-11-2020 12:55:54 - Insertando respuesta en BD.
+30-11-2020 12:55:54 - Respuesta insertada en BD
+30-11-2020 12:55:54 - Se obtubo un TIME_OUT esperando respuesta
+30-11-2020 12:55:54 - Actualizar a estado 42 ID: FA1024BD-FA39-4AE6-B529-8B17E9A816E8
+30-11-2020 12:55:54 - Fin proceso cobro con tarjeta
+30-11-2020 12:56:00 - ################################################################
+30-11-2020 12:56:00 - Inicia proceso cobro con tarjeta
+30-11-2020 12:56:00 - Procesando ID Canal Movimineto :04DEE773-C66E-4994-A40D-2A4396300B03
+30-11-2020 12:56:00 - Actualiza estado de Canal Moviminetos 61 :04DEE773-C66E-4994-A40D-2A4396300B03
+30-11-2020 12:56:00 - Movimieto: K126F000410430
+30-11-2020 12:56:00 - Tipo de transaccion:ENVIO CON PINPAD.MAIN.RED
+30-11-2020 12:56:00 - Actualiza estado de Requerimineto 61 :93379
+30-11-2020 12:56:01 - Entra a funcion para validar trama
+30-11-2020 12:56:01 - Trama de requerimineto longitud CORRECTA
+30-11-2020 12:56:01 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUsa112m+6eYzdLMntqbk7oCcjbYZ2oMbPxEjhqlLcdyZZWNp7krgWrvNVkCJzy6SuJUO/6E+GhWBJhoGVhxQI+aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvqmX0yabshz834+vK5/CmlD8lnMEMMTGlya9TJM8nziDEZhkZ33XTLqELbcejj0930OeHVBROQBb2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+30-11-2020 12:56:01 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 
+30-11-2020 12:56:01 - metodo envio con transaccion tipo: ENVIO  EJECUTADO
+30-11-2020 12:56:01 - Respuesta obtenida (Trama): 2KT6uTbmWH4jo91dtcaJxLlTilmt/1HenkAC8hBq7ZHpQQn91D5yVCI92Ifku64nBjqXBKD4HRjKj2jWqxDVu/yNTeliENoIgOS87fwjwWPC4gVdBlyMimgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+uwzgakoiFtSgfIsojak5wpoNgPhFXf4Gn8km5+dtwb1m/SaGuHflnjdVq9TP30rnmgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r65xsOtIKsSCcsY4MvLKFMxGgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6QQIPghGafTMyBjWsW/gSz3/aagc6q5PEYS8IyW6bru1CdBjeMPafOXUbnVSvafFRhMEQxpLJ/HzSLGNz932AwGRYeUdWkdr7xTj+tL0KGgh1v76q6w5yIHFgqmRI+Lx/+ASZJRImiE8dnIFerVLcZGgEVLm1r7r6aARUubWvuvpT05dOP2X7xrS2z27Ua7z7H2bZpBRF8hl0nNXSA9fcYnVs4nV6KW0g
+30-11-2020 12:56:01 - [Mensaje de respuesta]  Codigo:  AUTORIZACION OK., Mensaje:  AUTORIZACION APROBADA ,   Secuencia:  APROBADA 
+30-11-2020 12:56:01 - Procesando respuesta obtenida.
+30-11-2020 12:56:01 - Entra a funcion Validar trama de respuesta del Switch.
+30-11-2020 12:56:01 - Trama de respuesta del Switch longitud OK
+30-11-2020 12:56:01 - Insertando respuesta en BD.
+30-11-2020 12:56:01 - Respuesta insertada en BD
+30-11-2020 12:56:01 - Actualizar a estado 42 ID: 04DEE773-C66E-4994-A40D-2A4396300B03
+30-11-2020 12:56:01 - Fin proceso cobro con tarjeta
+30-11-2020 13:03:33 - SERVICIO TARJETA INICIADO
+30-11-2020 13:04:05 - ################################################################
+30-11-2020 13:04:05 - Inicia proceso cobro con tarjeta
+30-11-2020 13:04:05 - Procesando ID Canal Movimineto :A7D446EF-4F8D-4B31-B4C6-B004F7244974
+30-11-2020 13:04:05 - Actualiza estado de Canal Moviminetos 61 :A7D446EF-4F8D-4B31-B4C6-B004F7244974
+30-11-2020 13:04:06 - Movimieto: K126F000410431
+30-11-2020 13:04:06 - Tipo de transaccion:ENVIO CON PINPAD.MAIN.RED
+30-11-2020 13:04:06 - Actualiza estado de Requerimineto 61 :93380
+30-11-2020 13:04:06 - Entra a funcion para validar trama
+30-11-2020 13:04:07 - Trama de requerimineto longitud CORRECTA
+30-11-2020 13:04:08 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUsa112m+6eYzdLMntqbk7oCcjbYZ2oMbPxEjhqlLcdyZZWNp7krgWrvNVkCJzy6SuJUO/6E+GhWBJhoGVhxQI+aARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvqsJE3BAhcDv5dllz7tfHrL8lnMEMMTGlya9TJM8nziDEZhkZ33XTLqELbcejj0930OeHVBROQBb2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+30-11-2020 13:04:08 - ENTRO a ejecucion del metodo envio con transaccion tipo: ENVIO 

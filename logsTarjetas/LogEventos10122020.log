@@ -1,0 +1,69 @@
+10-12-2020 11:27:28 - SERVICIO TARJETA INICIADO
+10-12-2020 11:31:01 - SERVICIO TARJETA INICIADO
+10-12-2020 11:43:51 - SERVICIO TARJETA INICIADO
+10-12-2020 11:45:00 - ################################################################
+10-12-2020 11:45:00 - Inicia proceso cobro con tarjeta
+10-12-2020 11:45:00 - Procesando ID Canal Movimineto :52A89387-8426-4CE2-939D-E0C892D7E052
+10-12-2020 11:45:00 - Actualiza estado de Canal Moviminetos 61 :52A89387-8426-4CE2-939D-E0C892D7E052
+10-12-2020 11:45:01 - Movimieto: K128F000641917
+10-12-2020 11:45:01 - Tipo de transaccion:REVERSO CON PINPAD.MAIN.RED
+10-12-2020 11:45:01 - Actualiza estado de Requerimineto 61 :96771
+10-12-2020 11:45:01 - Entra a funcion para validar trama
+10-12-2020 11:45:01 - Trama de requerimineto longitud CORRECTA
+10-12-2020 11:45:01 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUehP4oROKZfjdLMntqbk7oQUQlpCIrVIvyHiLaLRAHWJkaUPyUxNycvNVkCJzy6SsT9nIEh1YNNff6Nprwu7QUaARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvoyo/GiOca7N3GVcl40LTwQ8lnMEMMTGlya9TJM8nziDGoibzcik7JFW4BfDpIdqp8qD3ryXCGVn2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+10-12-2020 11:45:02 - ENTRO a ejecucion del metodo envio con transaccion tipo: REVERSO 
+10-12-2020 11:45:02 - No se encuentra el dato [TCP.DIRECCION.192.168.100.6] en el archivo [configuraciones] 
+10-12-2020 11:46:11 - SERVICIO TARJETA INICIADO
+10-12-2020 11:46:49 - ################################################################
+10-12-2020 11:46:49 - Inicia proceso cobro con tarjeta
+10-12-2020 11:46:49 - Procesando ID Canal Movimineto :FCF4CFCC-29E9-4039-A07A-BCEEDBE63788
+10-12-2020 11:46:50 - Actualiza estado de Canal Moviminetos 61 :FCF4CFCC-29E9-4039-A07A-BCEEDBE63788
+10-12-2020 11:46:50 - Movimieto: K128F000641917
+10-12-2020 11:46:50 - Tipo de transaccion:REVERSO CON PINPAD.MAIN.RED
+10-12-2020 11:46:50 - Actualiza estado de Requerimineto 61 :96772
+10-12-2020 11:46:50 - Entra a funcion para validar trama
+10-12-2020 11:46:50 - Trama de requerimineto longitud CORRECTA
+10-12-2020 11:46:50 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUehP4oROKZfjdLMntqbk7oQUQlpCIrVIvyHiLaLRAHWJkaUPyUxNycvNVkCJzy6SsT9nIEh1YNNff6Nprwu7QUaARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvoyo/GiOca7N3GVcl40LTwQ8lnMEMMTGlya9TJM8nziDGoibzcik7JFW4BfDpIdqp8qD3ryXCGVn2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+10-12-2020 11:46:50 - ENTRO a ejecucion del metodo envio con transaccion tipo: REVERSO 
+10-12-2020 11:47:12 - metodo envio con transaccion tipo: REVERSO  EJECUTADO
+10-12-2020 11:47:12 - Respuesta obtenida (Trama): G3PHN7Cb8Ik=
+10-12-2020 11:47:12 - Insertando respuesta en BD.
+10-12-2020 11:47:12 - Respuesta insertada en BD
+10-12-2020 11:47:12 - ------------Exception:  String index out of range: 32
+10-12-2020 11:47:12 - Fin proceso cobro con tarjeta
+10-12-2020 11:53:49 - SERVICIO TARJETA INICIADO
+10-12-2020 11:53:53 - ################################################################
+10-12-2020 11:53:53 - Inicia proceso cobro con tarjeta
+10-12-2020 11:53:53 - Procesando ID Canal Movimineto :D88FBB4C-B4C9-4A24-AE0A-B461F55A5EE7
+10-12-2020 11:53:53 - Actualiza estado de Canal Moviminetos 61 :D88FBB4C-B4C9-4A24-AE0A-B461F55A5EE7
+10-12-2020 11:53:53 - Movimieto: K128F000641917
+10-12-2020 11:53:53 - Tipo de transaccion:REVERSO CON PINPAD.MAIN.RED
+10-12-2020 11:53:53 - Actualiza estado de Requerimineto 61 :96773
+10-12-2020 11:53:53 - Entra a funcion para validar trama
+10-12-2020 11:53:53 - Trama de requerimineto longitud CORRECTA
+10-12-2020 11:53:54 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUehP4oROKZfjdLMntqbk7oQUQlpCIrVIvyHiLaLRAHWJkaUPyUxNycvNVkCJzy6SsT9nIEh1YNNff6Nprwu7QUaARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvoyo/GiOca7N3GVcl40LTwQ8lnMEMMTGlya9TJM8nziDGoibzcik7JFW4BfDpIdqp8qD3ryXCGVn2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+10-12-2020 11:53:54 - ENTRO a ejecucion del metodo envio con transaccion tipo: REVERSO 
+10-12-2020 11:54:15 - metodo envio con transaccion tipo: REVERSO  EJECUTADO
+10-12-2020 11:54:15 - Respuesta obtenida (Trama): G3PHN7Cb8Ik=
+10-12-2020 11:54:15 - Insertando respuesta en BD.
+10-12-2020 11:54:15 - Respuesta insertada en BD
+10-12-2020 11:54:15 - ------------Exception:  String index out of range: 32
+10-12-2020 11:54:15 - Fin proceso cobro con tarjeta
+10-12-2020 11:58:07 - SERVICIO TARJETA INICIADO
+10-12-2020 11:58:17 - ################################################################
+10-12-2020 11:58:17 - Inicia proceso cobro con tarjeta
+10-12-2020 11:58:17 - Procesando ID Canal Movimineto :649E2E00-031F-4E0E-8101-C4F31C2FEF99
+10-12-2020 11:58:17 - Actualiza estado de Canal Moviminetos 61 :649E2E00-031F-4E0E-8101-C4F31C2FEF99
+10-12-2020 11:58:18 - Movimieto: K128F000641917
+10-12-2020 11:58:18 - Tipo de transaccion:REVERSO CON PINPAD.MAIN.RED
+10-12-2020 11:58:18 - Actualiza estado de Requerimineto 61 :96774
+10-12-2020 11:58:18 - Entra a funcion para validar trama
+10-12-2020 11:58:18 - Trama de requerimineto longitud CORRECTA
+10-12-2020 11:58:18 - Secuencia de Transaccion y trama: Sw9foAnAKYyJnVuR6QuSPukJQmwQXxBzzLJ2Dovb4zP7VgCS8vt1/DWEJ7RIzKpBKDSjh2qPM4feJSsRxCp/PWHsEeTDEZMklkTuSWScGbUehP4oROKZfjdLMntqbk7oQUQlpCIrVIvyHiLaLRAHWJkaUPyUxNycvNVkCJzy6SsT9nIEh1YNNff6Nprwu7QUaARUubWvuvpoBFS5ta+6+mgEVLm1r7r6aARUubWvuvoyo/GiOca7N3GVcl40LTwQ8lnMEMMTGlya9TJM8nziDGoibzcik7JFW4BfDpIdqp8qD3ryXCGVn2gEVLm1r7r6aARUubWvuvpoBFS5ta+6+i3cLc/M1bqy
+10-12-2020 11:58:18 - ENTRO a ejecucion del metodo envio con transaccion tipo: REVERSO 
+10-12-2020 11:58:40 - metodo envio con transaccion tipo: REVERSO  EJECUTADO
+10-12-2020 11:58:40 - Respuesta obtenida (Trama): G3PHN7Cb8Ik=
+10-12-2020 11:58:40 - Insertando respuesta en BD.
+10-12-2020 11:58:40 - Respuesta insertada en BD
+10-12-2020 11:58:40 - ------------Exception:  String index out of range: 32
+10-12-2020 11:58:40 - Fin proceso cobro con tarjeta
